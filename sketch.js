@@ -1,6 +1,6 @@
 
 
-let sizeBar = new scrollBar(100,200,200,20,6);
+let sizeBar = new scrollBar(100,200,200,30,6);
 let barSize;
 let tvalue;
 let f1;
