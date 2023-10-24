@@ -33,7 +33,7 @@ function draw() {
  text(f1,20,20);
 
   if (mouseIsPressed) {
-    fill(tvalue);  ellipse(mouseX, mouseY, 40, 40);} 
+    fill(tvalue);  ellipse(mouseX, mouseY, 15, 15);} 
   else {
     fill(tvalue);
   }
